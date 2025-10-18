@@ -18,7 +18,7 @@ npm run start
 Before running your code, ensure you have a `.env` file in the root folder of the project containing your API key as follows:
 
 ```sh
-OPENAI_API_KEY=<your api key>
+OPENAI_API_KEY=<your API key>
 ```
 
 You may find your API key [at this link](https://platform.openai.com/api-keys).
