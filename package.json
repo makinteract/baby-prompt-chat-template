@@ -1,0 +1,23 @@
+{
+  "name": "baby-prompt-chat-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "baby-prompts",
+    "chatbot",
+    "template"
+  ],
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "baby-prompts": "^2.2.3",
+    "chalk": "^5.6.2",
+    "inquirer": "^12.9.6",
+    "node-localstorage": "^3.0.5"
+  }
+}
